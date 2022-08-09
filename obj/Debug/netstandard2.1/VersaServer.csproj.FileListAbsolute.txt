@@ -1,0 +1,11 @@
+C:\Users\Endle\VersaServer\bin\Debug\netstandard2.1\VersaServer.deps.json
+C:\Users\Endle\VersaServer\bin\Debug\netstandard2.1\VersaServer.dll
+C:\Users\Endle\VersaServer\bin\Debug\netstandard2.1\VersaServer.pdb
+C:\Users\Endle\VersaServer\obj\Debug\netstandard2.1\VersaServer.csproj.AssemblyReference.cache
+C:\Users\Endle\VersaServer\obj\Debug\netstandard2.1\PluginInfo.cs
+C:\Users\Endle\VersaServer\obj\Debug\netstandard2.1\VersaServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Endle\VersaServer\obj\Debug\netstandard2.1\VersaServer.AssemblyInfoInputs.cache
+C:\Users\Endle\VersaServer\obj\Debug\netstandard2.1\VersaServer.AssemblyInfo.cs
+C:\Users\Endle\VersaServer\obj\Debug\netstandard2.1\VersaServer.csproj.CoreCompileInputs.cache
+C:\Users\Endle\VersaServer\obj\Debug\netstandard2.1\VersaServer.dll
+C:\Users\Endle\VersaServer\obj\Debug\netstandard2.1\VersaServer.pdb
