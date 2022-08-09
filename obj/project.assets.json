@@ -2682,14 +2682,14 @@
   "project": {
     "version": "2020.3.31",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Endle\\VersaServer\\VersaServer.csproj",
+      "projectUniqueName": "C:\\Users\\Endle\\VersaServer\\VersaServer\\VersaServer.csproj",
       "projectName": "VersaServer",
-      "projectPath": "C:\\Users\\Endle\\VersaServer\\VersaServer.csproj",
+      "projectPath": "C:\\Users\\Endle\\VersaServer\\VersaServer\\VersaServer.csproj",
       "packagesPath": "C:\\Users\\Endle\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Endle\\VersaServer\\obj\\",
+      "outputPath": "C:\\Users\\Endle\\VersaServer\\VersaServer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Endle\\VersaServer\\NuGet.Config",
+        "C:\\Users\\Endle\\VersaServer\\VersaServer\\NuGet.Config",
         "C:\\Users\\Endle\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],

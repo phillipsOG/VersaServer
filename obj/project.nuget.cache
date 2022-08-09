@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4OfUTt31Vxq1iibRoRn0M+IM5RD6W1sE5c7pFnYj5ApSQm3KwbaUmnVF2JJ6qhikjRoh7BL8twlx9ebsorHrQA==",
+  "dgSpecHash": "Blx7+hv9WOuY4roFTcdRo7SH4BcdnhP/9JAjuUC2pV8pnvrezH42ELEfd+ZbIqW6UGDXjZy0Cq3Irj360HyQUg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Endle\\VersaServer\\VersaServer.csproj",
+  "projectFilePath": "C:\\Users\\Endle\\VersaServer\\VersaServer\\VersaServer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Endle\\.nuget\\packages\\bepinex.core\\6.0.0-be.574\\bepinex.core.6.0.0-be.574.nupkg.sha512",
     "C:\\Users\\Endle\\.nuget\\packages\\bepinex.il2cpp\\6.0.0-be.574\\bepinex.il2cpp.6.0.0-be.574.nupkg.sha512",
